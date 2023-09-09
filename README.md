@@ -37,6 +37,7 @@ Source code of the file avaiable<br>
 * Edit `clipboard.pyw` to change the webhook link & name of webhook and the avatar of the webhook
 * Send to your victim the file : `clipboard.pyw`
 <br>
+* To close the program go to your task manager and search python and end the task
   
 -----
 
